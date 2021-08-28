@@ -1,5 +1,4 @@
 learning change git hub
-
 added new line using git hub
 This is example of conflict
 i have deleted second line.
